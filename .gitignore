@@ -1,0 +1,7 @@
+# Ignorar configurações e senhas locais
+.env
+node_modules/
+
+o desenvolvimento de um
+sistema de software para agendar pedidos de clientes da confeitaria, conforme os requisitos
+licitados e aprovados
