@@ -1,2 +1,1 @@
-O presente contrato tem por objeto o desenvolvimento de um sistema de gestão para a oficina mecânica
-Osvaldo Motors.
+O presente contrato tem por objeto o desenvolvimento de um sistema de gestão e agendamento para a Confeitaria de D. Neide
